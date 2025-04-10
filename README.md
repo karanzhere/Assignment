@@ -32,3 +32,28 @@ Enter choice (1/2/3/4): 1
 Enter first number: 5
 Enter second number: 3
 The result is: 8
+=======================================================================================================================================================================
+
+#Assignment2
+
+Overview
+This Python program takes a user's first name and last name as input, concatenates them into a full name, and prints a personalized greeting message using the full name.
+
+Features
+User Input: Prompts the user to enter their first name and last name.
+Name Concatenation: Combines the first name and last name into a full name.
+Personalized Greeting: Prints a greeting message that includes the user's full name.
+Usage
+To use this program, follow these steps:
+
+Save the Code: Save the provided code in a file, for example, greet_user.py.
+Run the Script: Open a terminal or command prompt and navigate to the directory where the file is saved.
+Execute the Script: Run the script by typing python greet_user.py and pressing Enter.
+Input Prompt: The script will prompt you to enter your first name and last name.
+Greeting Message: After entering the names, the script will print a personalized greeting message.
+Example
+Here is an example of how the program works:
+
+Enter your first name: John
+Enter your last name: Doe
+Hello, John Doe! Welcome!
